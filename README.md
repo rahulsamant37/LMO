@@ -336,7 +336,7 @@ The MCP Server will be implemented in Python using FastAPI as the web framework.
 
 #### API Service
 
-The API service will be built with FastAPI and will provide:
+The API service will be built with FastAPI and will provide:-
 
 1. **Endpoints for Client Management**
    - Tenant registration and management
