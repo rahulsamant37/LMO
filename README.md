@@ -1,4 +1,5 @@
 # LMO
+
 ![diagram-export-4-5-2025-3_13_30-AM](https://github.com/user-attachments/assets/fd694fd7-8a31-49af-ab8c-43cd874d33f1)
 
 This is a comprehensive high-level and low-level design for your MCP-based SaaS B2B platform using the technologies you've specified. Let's break this down with diagrams and detailed explanations.
@@ -363,7 +364,7 @@ The system is designed with multi-tenancy in mind:
 
 #### Data Flow
 
-The sequence diagram illustrates the typical flow of a request through the system:
+The sequence diagram illustrates the typical flow of a request through the system:-
 
 1. Client makes a request with tenant credentials
 2. System authenticates and authorizes the request
